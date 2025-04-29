@@ -1,4 +1,4 @@
-# Ex-2(A) Dequeue Elements from Circular Queue
+# Ex6 Dequeue Elements from Circular Queue
 ## DATE: 
 ## AIM:
 To write a C program to delete three elements from the filled circular queue.
